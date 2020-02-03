@@ -1,0 +1,5 @@
+Equivalente de null en Ruby
+nil
+
+Un tipo de archivo en el que todos los valores están delimitados por comas.
+CSV
